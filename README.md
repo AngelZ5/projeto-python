@@ -14,5 +14,3 @@ Programa desenvolvido para praticar lógica de programação e versionamento com
 - Python
 - Git
 - GitHub
-  git add README.md
-  git commit -m "Adiciona documentação do projeto"
