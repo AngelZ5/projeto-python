@@ -14,3 +14,5 @@ Programa desenvolvido para praticar lógica de programação e versionamento com
 - Python
 - Git
 - GitHub
+
+- Contribuidores: Rodrigo de souza nascimento, Eros tepes santana ribeiro barbosa.
